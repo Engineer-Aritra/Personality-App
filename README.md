@@ -1,10 +1,11 @@
-# PersonalityApp
+# Personality Quiz App
 
-A new Flutter project.
+A Flutter project to guess a user's personality based on preformatted choices in the form a quiz.
 
-## Getting Started
+>You can add more questions and choices to the 'questions' source file.
 
-This project is a starting point for a Flutter application.
+
+## Getting Started (if you're a complete beginner with Flutter and Dart).
 
 A few resources to get you started if this is your first Flutter project:
 
