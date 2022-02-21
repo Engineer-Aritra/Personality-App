@@ -1,6 +1,6 @@
 # Personality Quiz App
 
-A Flutter project to guess a user's personality based on preformatted choices in the form a quiz.
+A Flutter project to guess a user's personality based on preformatted choices in the form of a quiz.
 
 >You can add more questions and choices to the 'questions' source file.
 
